@@ -1,2 +1,0 @@
-MainPage.tsx 13 
-models.tsx 14
