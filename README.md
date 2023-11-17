@@ -21,8 +21,8 @@
 </div>
       <hr>
       <h2>Airports info API</h2>
-      https://restcountries.com/v3.1/
+      https://run.mocky.io/v3/0bcaa9fc-1d86-4a45-99b1-007ddda004c9
       <hr>
       <h2>Completion date</h2>
-      <i>13 Oct 2023</i>
+      <i>28 May 2023</i>
 </div>
