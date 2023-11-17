@@ -1,13 +1,13 @@
 <h1>Application</h1>
 <p>
-    <i>The client part of the application that helps to get current information about airports</i>
+    <i>The client part of the application that helps to get current information about airports. My first big application with using state manager Redux@toolkit and strict typing functionality. <br>The application does not have an expressive style, as it was created to study Redux and TypeScript.</i>
 </p>
 <hr>
 <div>
     <h2>Tech stack</h2>
             <ul>
-                <li><i>TypeScript</i></li>
                 <li><i>React</i></li>
+                <li><i>TypeScript</i></li>
                 <li><i>Tailwind</i></li>
                 <li><i>Redux@toolkit</i></li>
             </ul>
@@ -21,7 +21,7 @@
 </div>
       <hr>
       <h2>Airports info API</h2>
-      https://run.mocky.io/v3/0bcaa9fc-1d86-4a45-99b1-007ddda004c9
+      Custom server: https://run.mocky.io/v3/0bcaa9fc-1d86-4a45-99b1-007ddda004c9
       <hr>
       <h2>Completion date</h2>
       <i>28 May 2023</i>
